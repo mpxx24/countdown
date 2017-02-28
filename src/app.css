@@ -9,9 +9,14 @@
 }
 
 .Clock-days,
-.Clock-hours, 
+.Clock-hours,
 .Clock-minutes,
 .Clock-seconds {
     display: inline;
     margin: 10px;
+}
+
+.Deadline-input {
+    font-size: 25px;
+    margin: 5px;
 }
